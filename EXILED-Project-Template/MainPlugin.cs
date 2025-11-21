@@ -28,7 +28,7 @@
         public static Translations Translations => Singleton?.Translation;
 
         /// <inheritdoc/>
-        public override string Name => "EXILED_Project_Template_v2";
+        public override string Name => "EXILED_Project_Template_v3";
 
         /// <inheritdoc/>
         public override string Author => "Placeholder";

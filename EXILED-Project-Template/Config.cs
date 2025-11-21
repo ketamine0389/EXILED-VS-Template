@@ -1,5 +1,5 @@
 ﻿// EXILED Project Template
-// Version 1
+// Version 3
 // https://github.com/ketamine0389
 
 namespace EXILED_Project_Template
